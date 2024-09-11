@@ -1,0 +1,45 @@
+Geovity 1.11 software de aplicación Geofísica fue desarrollado en Python 3.12.4.
+
+Corre geovity1.11.py desde cmd con:
+	python geovity1.11
+
+Si desea descargar la versión GEOvity 1.11 para Windows 10, 11 (x64) el archivo .exe se encuentra en:
+
+https://drive.google.com/drive/folders/1xVe1QPX8dQtIxgcKZcvpvojiAMOUD7VZ?usp=drive_link
+
+Dentro de la carpeta siga las instrucciones de instalación.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+(En)
+
+Geovity 1.11 geophysics application software was developed in Python 3.12.4.
+
+Run geovity1.11.py from cmd with:
+	python geovity1.11
+
+If you want to download the GEOvity 1.11 version for Windows 10, 11 (x64), the .exe file can be found at:
+
+https://drive.google.com/drive/folders/1xVe1QPX8dQtIxgcKZcvpvojiAMOUD7VZ?usp=drive_link
+
+Inside the folder, follow the installation instructions.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+(中)
+
+Geovity 1.11 地球物理应用软件是使用 Python 3.12.4 开发的。
+
+从命令提示符运行 geovity1.11.py，命令如下：
+
+		python geovity1.11
+
+如果您想下载适用于 Windows 10, 11 (x64) 的 GEOvity 1.11 版本，.exe 文件可以在以下链接找到：
+
+https://drive.google.com/drive/folders/1xVe1QPX8dQtIxgcKZcvpvojiAMOUD7VZ?usp=drive_link
+
+在文件夹内，按照安装说明进行操作。
+
+
+
+RIV Corporation
+AllRightsReserved
+2024 (c).
